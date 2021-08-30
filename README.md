@@ -1,6 +1,6 @@
-# Asana Tasks Importer - Aha Extension
+# Asana Tasks Importer - Aha! Extension
   
-TThis [Aha! Develop](https://www.aha.io/develop/overview) extension allows you to bring Asana Tasks into Aha!. It currently supports:
+This [Aha! Develop](https://www.aha.io/develop/overview) extension allows you to bring Asana Tasks into Aha!. It currently supports:
 
 - Name (as String)
 - Notes (as HTML)
