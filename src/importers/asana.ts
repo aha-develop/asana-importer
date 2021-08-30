@@ -112,6 +112,9 @@ class AsanaClient {
         })
         .map(({ value }) => {
           return value?.data?.data || {};
+        })
+        .filter(({ completed }) => {
+          return !completed;
         });
 
       return { data: tasks, next_page };
