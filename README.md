@@ -27,7 +27,7 @@ npm install -g aha-cli
 Clone the repo:
 
 ```sh
-git clone https://github.com/sorza-jimmy/asana-importer.git
+git clone https://github.com/aha-develop/asana-importer.git
 ```
 
 **Note: In order to install an extension into your Aha! Develop account, you must be an account administrator.**
